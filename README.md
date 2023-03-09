@@ -1,4 +1,5 @@
-# github-user-search-app-REACT
+# CandyCrush Game
+
 
 ## Links
 
